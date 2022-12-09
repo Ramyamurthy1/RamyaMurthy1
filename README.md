@@ -21,7 +21,7 @@ Take a look around; perhaps you’ll discover what exhilarates you. Are you read
 </div>
 
                                                                                                                                 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
                                                                                                                                 
