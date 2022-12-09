@@ -14,7 +14,8 @@ Take a look around; perhaps you’ll discover what exhilarates you. Are you read
 </div>
 
 
-<div id="badges" align="center>
+
+<div id="header" align="center">
   <a href="www.linkedin.com/in/ramyamurthy0409">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
