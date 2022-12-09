@@ -13,7 +13,7 @@ Take a look around; perhaps you’ll discover what exhilarates you. Are you read
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/ramya-murthy-39309310">
+  <a href="www.linkedin.com/in/ramyamurthy0409">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
